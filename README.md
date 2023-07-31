@@ -37,8 +37,8 @@ Install the required dependencies as mentioned in the "Requirements" section.
 
 Execute the Jupyter Notebook or Python script to perform the experiments:
 
-Run Impl.ipynb in Jupyter Notebook.
-Alternatively, run diabetes_prediction.py using Python.
+Run Implementation.ipynb in Jupyter Notebook.
+Alternatively, run Implementation.py using Python.
 
 ## Results and Evaluation
 The performances of both Decision Tree and Support Vector Machine algorithms are evaluated on various measures such as Precision, Accuracy, F-Measure, and Recall. Accuracy is measured over correctly and incorrectly classified instances. The results are presented and analyzed in the Jupyter Notebook and the Python script.
